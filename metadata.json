@@ -1,0 +1,6 @@
+{
+  "name": "Hebrew Vocab",
+  "description": "Learn Hebrew vocabulary with built-in spaced repetition, hard word bookmarks, and a comprehensive pronunciation database with audio support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
